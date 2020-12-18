@@ -249,7 +249,7 @@ B. **Dashboard Widgets:** Allows you to view to see Consumption data in a variet
 
 C. **Control Panel:** Allows you to view or hide Dashboard Charts.
 
-![projdash](admin-guide-images/pic11.png)
+![projdash](admin-guide-images/pic11.PNG)
 
 **Note:** The BCS Portal Overview provides a detailed review of the Project Dashboard and information available to Project Users.
 
@@ -268,7 +268,7 @@ B. Data can be exported from this view to:
 
 C. Search within the data details
 
-![widget](admin-guide-images/pic12.png)
+![widget](admin-guide-images/pic12.PNG)
 
 
 <h1>Reports</h1>
@@ -292,7 +292,7 @@ The GCP Billing Portal provides a numerous reports including:
 **Note:** New projects will not be visible on budget specific reports until a budget is configured.
 
 
-![stanreport](admin-guide-images/pic13.png)
+![stanreport](admin-guide-images/pic13.PNG)
 
 <br>
 
