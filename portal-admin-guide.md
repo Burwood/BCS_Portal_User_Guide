@@ -292,7 +292,7 @@ The GCP Billing Portal provides a numerous reports including:
 **Note:** New projects will not be visible on budget specific reports until a budget is configured.
 
 
-![stanreport](admin-guide-images/pic13.PNG)
+![stanreport](admin-guide-images/pic13.png)
 
 <br>
 
@@ -308,7 +308,7 @@ C. Numerous standard reports that provide detailed breakdown of consumption, ser
 
 **Note:** The report page is directly integrated with the table, so clicking anything in the report graph will show any relevant info in the table. 
 
-![report](admin-guide-images/pic14.png)
+![report](admin-guide-images/pic14.PNG)
 
 <br> 
 
