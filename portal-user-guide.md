@@ -53,7 +53,7 @@ Log on in two different ways:
 * Your email and password
 * If SSO is enabled, select "Sign-In With SSO" and use your email address. 
 
-![SSO](user-guide-images/pic1.png)
+![SSO](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic1.png)
 
 <br>
 
@@ -74,7 +74,7 @@ B. Dashboard Widgets: Allows you to view to see Consumption data in a variety of
 
 C. Control Panel: Allows you to view or hide Dashboard Charts
 
-![ProjectView](user-guide-images/projectview.PNG)
+![ProjectView](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/projectview.PNG)
 
 <br>
 
@@ -84,7 +84,7 @@ Basic project information related to funding events, total budget, and total con
 
 If you have access to multiple projects, use the drop-down arrow to select the project for which would like to see the specific details. 
 
-![projectdetails](user-guide-images/pic3.png)
+![projectdetails](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic3.png)
 
 | Term                       | Definition                                                                                                                                                                                                                 |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -102,7 +102,7 @@ If you have access to multiple projects, use the drop-down arrow to select the p
 
 **Project Details: Budget Consumption Calculations Example**
 
-![calculations](user-guide-images/calc.PNG)
+![calculations](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/calc.PNG)
 
 A. Current Budget Consumption: Amount spent against the Active budget
 
@@ -147,7 +147,7 @@ Available Dashboard Widgets include:
 
 **Note:** Dashboard widgets may be updated, removed, or replaced periodically based on user requests
 
-![widgets](user-guide-images/pic5.png)
+![widgets](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic5.png)
 
 <br>
 
@@ -163,13 +163,13 @@ Views are available over type:
 * Consumption by Service
 * Consumption by Entity
 
-![service](user-guide-images/pic6.png)
+![service](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic6.png)
 
 and by time:
 * Service Consumption Over Time
 * Entity Consumption Over Time
 
-![entity](user-guide-images/pic7.png)
+![entity](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic7.png)
 
 <br>
 
@@ -192,7 +192,7 @@ Changing the timeline view for one widget will change the timeline view for all 
  
 C. The click and drag to zoom function provides the ability to dive deeper into the chart details, such as drilling into a specific date.
 
-![dashchart](user-guide-images/pic8.PNG)
+![dashchart](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic8.PNG)
 
 <br>
 
@@ -205,7 +205,7 @@ Clicking on the menu options provides several options for viewing and downloadin
 * Download PDF document
 * Download SVG vector image
 
-![downloadingcharts](user-guide-images/pic9.png)
+![downloadingcharts](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic9.png)
 
 <br>
 
@@ -222,7 +222,7 @@ B. Data can be exported from this view to:
 
 C. Search within the data details
 
-![dashwidget](user-guide-images/pic10.png)
+![dashwidget](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic10.png)
 
 <br>
 
@@ -247,7 +247,7 @@ The GCP Billing Portal provides a numerous reports including:
 
 **Note:** New projects will not be visible on budget specific reports until a budget is configured.
 
-![standardreport](user-guide-images/pic11.png)
+![standardreport](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic11.png)
 
 <br>
 
@@ -262,7 +262,7 @@ To Run reports:
 
 **Note:** You will need to click Run after each criteria or report type change in order to refresh the report
 
-![reports](user-guide-images/pic12.png)
+![reports](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic12.png)
 
 <br>
 
@@ -279,5 +279,5 @@ To set Alert Thresholds:
 
 **Note:** The Administration page is used by your administrator to set up the parameters of your project(s). Project users can only configure alerts.
 
-![alerts](user-guide-images/pic13.png)
+![alerts](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/user-guide-images/pic13.png)
 
