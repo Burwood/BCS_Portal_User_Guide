@@ -20,7 +20,7 @@ The BCS GCP Billing Portal was developed as an enhancement to GCP functionality 
 
 **Project Setup Process**
 
-![process](user-guide-images/chart1.PNG)
+![process](https://github.com/Burwood/BCS_Portal_User_Guide/blob/main/user-guide-images/chart1.PNG)
 
 When a project is created in GCP, a monitoring project (deployed within each billing account by Burwood) publishes consumption data to a GCP BigQuery table.  As soon as there is spend for a GCP project, it will appear in the BCS Portal.  Your BCS Portal Administrator will then enter additional metadata, including assigning project users, budget data, and setting alert thresholds.
 
