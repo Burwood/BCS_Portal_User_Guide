@@ -41,7 +41,7 @@ There are four functional areas within the GCP Billing Portal:
 
 **Project Setup Process**
 
-![chart](admin-guide-images/chart1.PNG)
+![chart](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/chart1.PNG)
 
 When a project is created in GCP, a monitoring project (deployed within each billing account by Burwood) publishes consumption data to a GCP BigQuery table.  As soon as there is spend* for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.  
 
@@ -58,7 +58,7 @@ As a BCS Portal Administrator, you will then enter project metadata (including d
 
 The Administration > Projects tab provides the ability for project administrators to enter pertinent information about GCP projects to ensure they appear accurately and provide the correct information in the BCS GCP Billing Platform.
 
-![setup](admin-guide-images/pic1.png)
+![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic1.png)
 
 As soon as there is spend for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.
 
@@ -74,7 +74,7 @@ BCS Portal Administrators will be responsible for updating the following informa
 
 *If no department assigned, the project will remain in Unaffiliated Projects
 
-![setup](admin-guide-images/pic2.png)
+![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic2.png)
 
 To set up Projects:
 1. Click on Unaffiliated Projects and select the desired project. The following information will auto-populate from GCP:
@@ -99,7 +99,7 @@ To manually set up a Project:
 
 Take care to ensure the Project ID matches what is in GCP exactly – do not use the Project Name from GCP in that field, or data will not correlate!
 
-![setup](admin-guide-images/pic4.png)
+![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic4.png)
 
 <br>
 
@@ -114,7 +114,7 @@ Selecting “Suspend” for this field means that defining a project budget will
 Selecting “Bill” for this field means that any budgets added to the project are informational only… no action will be taken to prevent spend beyond the defined budget.
 
 
-![setup](admin-guide-images/pic5.png)
+![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic5.png)
 
 <br>
 
@@ -134,7 +134,7 @@ To set Alert Thresholds:
 **Note:** The Administration page is used by your administrator to set up the parameters of your project(s). Project users can only configure alerts.
 
 
-![setup](admin-guide-images/pic6.png)
+![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic6.png)
 
 <br>
 
@@ -154,7 +154,7 @@ To establish a budget, click on the plus sign next to **Budget Items:**
 * **Next:** If there are Future budgets, one needs to have the Next radio button enabled to denote order.
 
 
-![setup](admin-guide-images/pic7.png)
+![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic7.png)
 
 <br>
 
@@ -198,7 +198,7 @@ Departments can be added to group projects together in the portal. There are two
 **Budgeting** departments provide the functionality of Reporting departments, and:
 * Force budgets to be made at the Department rather than Project level (Projects in that Department share a common budget)
 
-![setup](admin-guide-images/pic8.png)
+![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic8.png)
 
 <br>
 
@@ -215,7 +215,7 @@ To set up Users:
     * Admin Read-Only: Users have access to view all projects, but can not set budgets or update project information
     * Admin User: Can access and update all projects
 
-![adduser](admin-guide-images/pic9.png)
+![adduser](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic9.png)
 
 <br>
 
@@ -226,14 +226,14 @@ To set up Users:
 
 The Dashboards > Admin tab provides a quick and concise view of consumption and budget details for all projects within the purview of the Administrator.
 
-![admindash](admin-guide-images/pic10.png)
+![admindash](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic10.png)
 
 
 **Admin Dashboard: Chart Description**
 
 The Admin Dashboard provides a number of charts to track and manage GCP consumption.
 
-![adminchart](admin-guide-images/chart2.PNG)
+![adminchart](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/chart2.PNG)
 
 
 **Project Dashboard Overview**
@@ -249,7 +249,7 @@ B. **Dashboard Widgets:** Allows you to view to see Consumption data in a variet
 
 C. **Control Panel:** Allows you to view or hide Dashboard Charts.
 
-![projdash](admin-guide-images/pic11.PNG)
+![projdash](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic11.PNG)
 
 **Note:** The BCS Portal Overview provides a detailed review of the Project Dashboard and information available to Project Users.
 
@@ -268,7 +268,7 @@ B. Data can be exported from this view to:
 
 C. Search within the data details
 
-![widget](admin-guide-images/pic12.PNG)
+![widget](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic12.PNG)
 
 
 <h1>Reports</h1>
@@ -292,7 +292,7 @@ The GCP Billing Portal provides a numerous reports including:
 **Note:** New projects will not be visible on budget specific reports until a budget is configured.
 
 
-![stanreport](admin-guide-images/pic13.png)
+![stanreport](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic13.png)
 
 <br>
 
@@ -308,7 +308,7 @@ C. Numerous standard reports that provide detailed breakdown of consumption, ser
 
 **Note:** The report page is directly integrated with the table, so clicking anything in the report graph will show any relevant info in the table. 
 
-![report](admin-guide-images/pic14.PNG)
+![report](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic14.PNG)
 
 <br> 
 
@@ -323,7 +323,7 @@ To Run reports:
 
 **Note:** You will need to click Run after each criteria or report type change in order to refresh the report.
 
-![reporting](admin-guide-images/pic15.png)
+![reporting](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic15.png)
 
 
 
