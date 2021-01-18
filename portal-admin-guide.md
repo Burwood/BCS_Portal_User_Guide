@@ -1,12 +1,3 @@
-<h1>Index</h1>
-
-1. [Overview](#bcs-portal-admin-guide)
-2. [Administration:Projects](./portal-admin-guide.md#administration--projects)
-3. [Administration:Users](./portal-admin-guide.md#administration--users)
-4. [Dashboards](./portal-admin-guide.md#dashboards)
-5. [Reports](./portal-admin-guide.md#reports)
-
-
 <h1>BCS Portal Admin Guide</h1>
 
 **BCS GCP Billing Portal Overview**
