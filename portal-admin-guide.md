@@ -1,10 +1,10 @@
 <h1>Index</h1>
 
-1. [Overview](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-admin-guide.md#bcs-portal-admin-guide)
-2. [Administration:Projects](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-admin-guide.md#administration--projects)
-3. [Administration:Users](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-admin-guide.md#administration--users)
-4. [Dashboards](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-admin-guide.md#dashboards)
-5. [Reports](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-admin-guide.md#reports)
+1. [Overview](./portal-admin-guide.md#bcs-portal-admin-guide)
+2. [Administration:Projects](./portal-admin-guide.md#administration--projects)
+3. [Administration:Users](./portal-admin-guide.md#administration--users)
+4. [Dashboards](./portal-admin-guide.md#dashboards)
+5. [Reports](./portal-admin-guide.md#reports)1
 
 
 <h1>BCS Portal Admin Guide</h1>
@@ -136,7 +136,14 @@ To set Alert Thresholds:
 
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic6.png)
 
+**Velocity Alerts**
 <br>
+To set a Velocity Alert:
+
+* Navigate to Administration | Project
+* Click the option to add alert
+* Check the Velocity Alert box
+* Next, enter in the Alert Threshold dollar amount Per Day
 
 **Setting Budgets**
 
