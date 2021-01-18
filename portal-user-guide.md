@@ -1,11 +1,3 @@
-<h1>Index</h1>
-
-1. [Overview](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-user-guide.md#bcs-portal-user-guide)
-2. [Dashboards](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-user-guide.md#-project-view-dashboards-)
-3. [Reports](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-user-guide.md#-reports-)
-4. [Threshold Alerts](https://github.com/Burwood/CloudOnboarding/blob/master/billing/portal-user-guide.md#-updating-threshold-alerts)
-
-
 <h1>BCS Portal User Guide</h1>
 
 **Purpose of the Portal** 
