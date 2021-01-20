@@ -136,7 +136,10 @@ To set a Velocity Alert:
 * Check the Velocity Alert box
 * Next, enter in the Alert Threshold dollar amount Per Day
 
-![admin-guide-images](pic16.png)
+
+
+
+![admin-guide-images](admin-guide-images\pic16.png)
 
 
 
