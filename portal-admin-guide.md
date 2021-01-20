@@ -124,8 +124,8 @@ To set Alert Thresholds:
 
 **Note:** The Administration page is used by your administrator to set up the parameters of your project(s). Project users can only configure alerts.
 
-
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic6.png)
+
 
 **Velocity Alerts**
 <br>
@@ -135,6 +135,8 @@ To set a Velocity Alert:
 * Click the option to add alert
 * Check the Velocity Alert box
 * Next, enter in the Alert Threshold dollar amount Per Day
+
+![admin-guide-images](pic16.png)
 
 
 
