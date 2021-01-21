@@ -108,7 +108,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
     •	The green shaded bar shows how much budget is left.    
  <br>
 
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17-1.png)
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17.png)
 
 
 **How to add a Purchase Order**
@@ -116,7 +116,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
     •	Navigate to Administration >Purchase Orders.
     •	Click the option to add Purchase Orders.
     <br>
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18-1.png)    
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)    
 
 
 
