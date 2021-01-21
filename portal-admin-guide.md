@@ -94,9 +94,36 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
+**Purchase Orders**
+<br>
+    •	Customers can create and manage Purchase Order objects that they can use to track and   charge back internally.
+    •	There are two types of Purchase Orders: Standard, and Prepaid.
+    •	Standard Purchase Orders are generally not tied to an account.
+    •	Prepaid Purchase Orders are specific to accounts. They can be assigned to Projects and Accounts.
+    <br>
+
+**Purchase Order Consumption**
+<br>
+    •	In the Graph below, the bars in red are Consumption against the Purchase Order.
+    •	The green shaded bar shows how much budget is left.    
+ <br>
+
+![admin-guide-images](admin-guide-images\pic17.png)
+
+
+**How to add a Purchase Order**
+<br>
+    •	Navigate to Administration >Purchase Orders.
+    •	Click the option to add Purchase Orders.
+    <br>
+![admin-guide-images](admin-guide-images\pic18.png)    
+
+
+
 **Project Setup: "After Budget"**
 
 <br>
+
 
 An important field to understand the functionality behind is “After Budget”:
 
@@ -137,7 +164,7 @@ To set a Velocity Alert:
 * Next, enter in the Alert Threshold dollar amount Per Day
 
 
-
+<br>
 
 ![admin-guide-images](admin-guide-images\pic16.png)
 
