@@ -128,7 +128,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-![admin-guide-images]()
+![admin-guide-images](admin-guide-images\pic19.png)
 
 
 
