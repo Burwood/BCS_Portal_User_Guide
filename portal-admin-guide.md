@@ -128,7 +128,6 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/admin-guide-images/pic19.png)
 
 
 **Project Setup: "After Budget"**
