@@ -114,7 +114,8 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 **How to add a Purchase Order**
 <br>
-    •	Navigate to Administration >Purchase Orders.
+
+* Navigate to Administration >Purchase Orders.
     
     <br>
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)    
