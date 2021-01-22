@@ -126,6 +126,10 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 * Next, click on the first box to choose the PO type. Either "Standard" or "Prepaid"
 * If choosing prepaid, enter a PO number, the account name, the account number, and the PO amount
 
+<br>
+
+![admin-guide-images]()
+
 
 
 **Project Setup: "After Budget"**
