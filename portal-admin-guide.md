@@ -96,16 +96,17 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 **Purchase Orders**
 <br>
-    •	Customers can create and manage Purchase Order objects that they can use to track and   charge back internally.
-    •	There are two types of Purchase Orders: Standard, and Prepaid.
-    •	Standard Purchase Orders are generally not tied to an account.
-    •	Prepaid Purchase Orders are specific to accounts. They can be assigned to Projects and Accounts.
+
+* Customers can create and manage Purchase Order objects that they can use to track and charge back internally.
+* There are two types of Purchase Orders: Standard, and Prepaid.
+* Standard Purchase Orders are generally not tied to an account.
+* Prepaid Purchase Orders are specific to accounts. They can be assigned to Projects and Accounts.
     <br>
 
 **Purchase Order Consumption**
-<br>
-    •	In the Graph below, the bars in red are Consumption against the Purchase Order.
-    •	The green shaded bar shows how much budget is left.    
+
+* In the Graph below, the bars in red are Consumption against the Purchase Order. 
+* The green shaded bar shows how much budget is left.   
  <br>
 
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17.png)
@@ -114,7 +115,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 **How to add a Purchase Order**
 <br>
     •	Navigate to Administration >Purchase Orders.
-    •	Click the option to add Purchase Orders.
+    
     <br>
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)    
 
