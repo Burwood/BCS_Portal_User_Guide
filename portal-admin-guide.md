@@ -128,7 +128,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-![images](C:\Users\sbrantley\OneDrive - Burwood Group, Inc\Documents\git)
+![image19](.admin-guide-images\pic19.png)
 
 
 **Project Setup: "After Budget"**
