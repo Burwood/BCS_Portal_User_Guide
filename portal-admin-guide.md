@@ -119,7 +119,12 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 * Navigate to Administration >Purchase Orders.
     
     <br>
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)    
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)  
+
+<br>
+
+* Next, click on the first box to choose the PO type. Either "Standard" or "Prepaid"
+* If choosing prepaid, enter a PO number, the account name, the account number, and the PO amount
 
 
 
