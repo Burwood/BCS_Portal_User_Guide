@@ -128,7 +128,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-![image19](.admin-guide-images\pic19.png)
+![image19](.\admin-guide-images\pic19.png)
 
 
 **Project Setup: "After Budget"**
