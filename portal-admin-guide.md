@@ -140,7 +140,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-**How to relate a Purchase Order to a Project**
+**How to add a Purchase Order to a Project**
 <br>
 
 * Now that the new PO has been created, it can be selected when a new Budget Item is added.
