@@ -130,6 +130,11 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 ![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic19.png)
 
+<br>
+
+* Click update to save changes.
+
+<![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
 
 
 **Project Setup: "After Budget"**
