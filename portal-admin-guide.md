@@ -140,7 +140,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-**How to relate a Purchase Order with a Project**
+**How to relate a Purchase Order to a Project**
 
 * Now that the new PO has been created, it can be selected when a new Budget Item is added.
 * To add a Purchase Order, click the Cost Object field on the budget line item, then  select the appropriate PO to bill against. 
