@@ -195,8 +195,13 @@ To set Alert Thresholds:
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic6.png)
 
 
+<br>
+
+
 **Velocity Alerts**
 <br>
+
+
 To set a Velocity Alert:
 
 * Navigate to Administration | Project
