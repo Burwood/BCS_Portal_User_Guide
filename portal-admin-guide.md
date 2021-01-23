@@ -112,6 +112,8 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17.png)
 
 <br>
+<br>
+
 
 **How to add a Purchase Order**
 <br>
@@ -152,6 +154,9 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 
 
+
+
+<br>
 
 
 **Project Setup: "After Budget"**
