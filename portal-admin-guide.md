@@ -1,9 +1,9 @@
-<h1>BCS Portal Admin Guide</h1>
+<h1>Burwood Cloud Portal Admin Guide</h1>
 
-**BCS GCP Billing Portal Overview**
+**Burwood Cloud GCP Billing Portal Overview**
 
 
-The BCS Portal was developed as an enhancement to GCP functionality to address three primary areas: 
+The Burwood Cloud Portal was developed as an enhancement to GCP functionality to address three primary areas: 
 
 
 * **Budgets:** The ability to define and alert against long-running budgets (as opposed to GCP which only allows monthly budgets to be created, which does not map well to a higher ed environment). Since grant money is often used for GCP, the status of total cumulative spend is typically much more useful than how much is spent each month.  
@@ -12,7 +12,7 @@ The BCS Portal was developed as an enhancement to GCP functionality to address t
 
 * **Current and Past Usage Detail:** SKU-level billing detail is available in the GCP Console only at month-end in the Invoice detail. If a project wants to understand what is driving a spike in GCP consumption totals, that detail is hard to determine using the GCP Console.
 
-* The BCS Portal provides Administrators with:
+* The Burwood Cloud Portal provides Administrators with:
     * Admin and Project Dashboards to view overall GCP spend or specific project consumption details
     * Project, Budgeting, Alerts, and User configuration capabilities 
 
@@ -36,7 +36,7 @@ There are four functional areas within the GCP Billing Portal:
 
 When a project is created in GCP, a monitoring project (deployed within each billing account by Burwood) publishes consumption data to a GCP BigQuery table.  As soon as there is spend* for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.  
 
-As a BCS Portal Administrator, you will then enter project metadata (including department alignment, project owner, and billing contact), assign project users, update budget(s), and set alerting thresholds.
+As a Burwood Cloud Portal Administrator, you will then enter project metadata (including department alignment, project owner, and billing contact), assign project users, update budget(s), and set alerting thresholds.
 
 
 **Note:** The project will not be visible in the Project Dashboard until billing against it commences.
@@ -47,13 +47,13 @@ As a BCS Portal Administrator, you will then enter project metadata (including d
 
 <br>
 
-The Administration > Projects tab provides the ability for project administrators to enter pertinent information about GCP projects to ensure they appear accurately and provide the correct information in the BCS GCP Billing Platform.
+The Administration > Projects tab provides the ability for project administrators to enter pertinent information about GCP projects to ensure they appear accurately and provide the correct information in the Burwood Cloud GCP Billing Platform.
 
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic1.png)
 
 As soon as there is spend for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.
 
-BCS Portal Administrators will be responsible for updating the following information and activities:
+Burwood Cloud Portal Administrators will be responsible for updating the following information and activities:
 * Defining Department alignment*
 * Creating Project Name/Description
 * Completing:
@@ -241,7 +241,7 @@ To establish a budget, click on the plus sign next to **Budget Items:**
 
 <br>
 
-**BCS Portal > GCP Automation**
+**Burwood Cloud Portal > GCP Automation**
 
 <br>
 
@@ -261,7 +261,7 @@ In cases where full automation is desired, budgets are automatically enforced fr
 
 Google does not have an SLA for how current they keep consumption data within the GCP Console. They claim that spend data may not be final for up to 2 days. In practice, we see data updated within a few hours of the spend occurring.  
 
-The BCS Portal pulls data from GCP every 30 minutes.  
+The Burwood Cloud Portal pulls data from GCP every 30 minutes.  
 
 These two factors need to be considered when setting Budgets. If a funded amount is an absolute "do not exceed" value, then the budgeted amount should be reduced in the BCS portal to account for the potential delay in reported spend to stay under that threshold.
 
@@ -334,7 +334,7 @@ C. **Control Panel:** Allows you to view or hide Dashboard Charts.
 
 ![projdash](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic11.PNG)
 
-**Note:** The BCS Portal Overview provides a detailed review of the Project Dashboard and information available to Project Users.
+**Note:** The Burwood Cloud Portal Overview provides a detailed review of the Project Dashboard and information available to Project Users.
 
 <br>
 
