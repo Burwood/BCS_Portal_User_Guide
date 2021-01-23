@@ -8,7 +8,7 @@ The Burwood Cloud Portal was developed as an enhancement to GCP functionality to
 
 * **Budgets:** The ability to define and alert against long-running budgets (as opposed to GCP which only allows monthly budgets to be created, which does not map well to a higher ed environment). Since grant money is often used for GCP, the status of total cumulative spend is typically much more useful than how much is spent each month.  
 
-* **Billing Visibility:** GCP’s Billing Administrator and Viewer roles are assigned at the Billing Account (not Project) level. In an environment where there are many projects within a billing account, there is no way to limit billing detail access at the project level.  Rather, billing viewer has access to all projects within the billing account. The BCS portal provides granular access to information, giving individuals access to just their project's billing info, accessible at any time
+* **Billing Visibility:** GCP’s Billing Administrator and Viewer roles are assigned at the Billing Account (not Project) level. In an environment where there are many projects within a billing account, there is no way to limit billing detail access at the project level.  Rather, billing viewer has access to all projects within the billing account. The Burwood Cloud portal provides granular access to information, giving individuals access to just their project's billing info, accessible at any time
 
 * **Current and Past Usage Detail:** SKU-level billing detail is available in the GCP Console only at month-end in the Invoice detail. If a project wants to understand what is driving a spike in GCP consumption totals, that detail is hard to determine using the GCP Console.
 
@@ -23,7 +23,7 @@ There are four functional areas within the GCP Billing Portal:
     * Project: dashboard provides individual project-level detail
 2. **Reports Tab:** Numerous standard reports available for GCP consumption data insights.
 
-3. **Administration Tab:**  Location for Administrators to view and update information about and control user access to GCP projects in the BCS Portal. Only Administration resources will see this tab.
+3. **Administration Tab:**  Location for Administrators to view and update information about and control user access to GCP projects in the Burwood Cloud Portal. Only Administration resources will see this tab.
 
 4. **Cloud Request Tab:** Allows users to submit and check status of GCP Billing service requests.
 <br>
@@ -34,7 +34,7 @@ There are four functional areas within the GCP Billing Portal:
 
 ![chart](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/chart1.PNG)
 
-When a project is created in GCP, a monitoring project (deployed within each billing account by Burwood) publishes consumption data to a GCP BigQuery table.  As soon as there is spend* for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.  
+When a project is created in GCP, a monitoring project (deployed within each billing account by Burwood) publishes consumption data to a GCP BigQuery table.  As soon as there is spend* for a GCP project, it will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.  
 
 As a Burwood Cloud Portal Administrator, you will then enter project metadata (including department alignment, project owner, and billing contact), assign project users, update budget(s), and set alerting thresholds.
 
@@ -51,7 +51,7 @@ The Administration > Projects tab provides the ability for project administrator
 
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic1.png)
 
-As soon as there is spend for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.
+As soon as there is spend for a GCP project, it will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.
 
 Burwood Cloud Portal Administrators will be responsible for updating the following information and activities:
 * Defining Department alignment*
