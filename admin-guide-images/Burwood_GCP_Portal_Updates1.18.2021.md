@@ -17,7 +17,7 @@ On the Budget Items pane you will now find the following:
 
 <br>
 
-# Mass Upates on the Projects Selector
+# Mass Updates on the Projects Selector
 
 <br>
 You are now able to use the Shift and/or Control keys to select multiple projects and make updates to the following fields:
