@@ -2,7 +2,7 @@
 
 **Purpose of the Portal** 
 
-The BCS GCP Billing Portal was developed as an enhancement to GCP functionality to address three primary concerns:
+The Burwood Cloud GCP Billing Portal was developed as an enhancement to GCP functionality to address three primary concerns:
 * The ability to define and alert against long-running budgets, as opposed to GCP which only allows monthly budgets to be created; which does not map well to a higher ed environment, where grant money is often used for GCP and the status of spending over time against the total grant is much more interesting than how much is spent each month.
   
 * In an environment where there are MANY projects within a billing account, there is no way within GCP to limit billing detail access at the project level.  Rather, billing viewer has access to all projects within the billing account.  The portal provides individuals with billing info for their project only.
@@ -23,7 +23,7 @@ The project will not be visible in the Project Dashboard until billing against i
 **Portal Overview**
 <br>
 
-There are four functional areas within the BCS GCP Portal:
+There are four functional areas within the Burwood Cloud GCP Portal:
 
 **Dashboards Tab:** Provides snapshot consumption data from GCP 
 * Project dashboard provides individual project-level detail
