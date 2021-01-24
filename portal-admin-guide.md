@@ -72,6 +72,11 @@ As a Portal Administrator, you are now able to create, manage, and track Purchas
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic26.png)
 
 <br>
+As always, if you have any questions please don’t hesitate to email your Customer Success Manager, or message us on Slack/Teams. Your feedback is very valuable to helping us build better, relevant, and more useful features, so please let us know if you have ideas or suggestions.
+
+<br>
+Thanks
+
 
 <br>
 
