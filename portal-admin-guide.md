@@ -58,9 +58,12 @@ As a Portal Administrator, you are now able to create, manage, and track Purchas
 
 <br>
 
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic25.png)
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic26.png)
 
 <br>
+
+<br>
+
 
 <h1>Burwood Cloud Portal Admin Guide</h1>
 
