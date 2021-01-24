@@ -1,4 +1,4 @@
-<h1>BCS Portal User Guide</h1>
+<h1>Burwood Cloud Portal User Guide</h1>
 
 **Purpose of the Portal** 
 
@@ -39,7 +39,7 @@ There are four functional areas within the Burwood Cloud GCP Portal:
 **Logging In**
 <br>
 
-Once access is setup, new users will log onto BCS GCP Billing Portal at: https://bcs.burwood.com/cloudbilling_dashboard
+Once access is setup, new users will log onto Burwood Cloud GCP Billing Portal at: https://bcs.burwood.com/cloudbilling_dashboard
 
 Log on in two different ways:
 * Your email and password
