@@ -47,3 +47,15 @@ As a Portal Administrator, you are now able to create, manage, and track Purchas
 <br>
 
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic24.png) 
+
+
+<br>
+
+# Release Notes
+<br>
+
+**Burwood releases updates to the Portal every two weeks and tracks the details of these releases on the Release Notes pages:**
+
+<br>
+
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic25.png)
