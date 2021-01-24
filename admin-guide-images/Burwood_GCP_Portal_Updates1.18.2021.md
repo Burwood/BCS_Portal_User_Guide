@@ -35,11 +35,14 @@ You are now able to use the Shift and/or Control keys to select multiple project
 
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic23.png) 
 
+
+
 <br>
 
 # Purchase Order Management
 <br>
 As a Portal Administrator, you are now able to create, manage, and track Purchase Orders for your Organization. For Example, when managing internal chargeback to departments or individual projects, or external purchase orders with Burwood.
+
 
 <br>
 
