@@ -1,5 +1,7 @@
 # Updates to the Budget Items pane
 
+<br>
+
 
  **Dear Burwood Customer,**
  <br>
@@ -75,7 +77,7 @@ As a Portal Administrator, you are now able to create, manage, and track Purchas
 As always, if you have any questions please don’t hesitate to email your Customer Success Manager, or message us on Slack/Teams. Your feedback is very valuable to helping us build better, relevant, and more useful features, so please let us know if you have ideas or suggestions.
 
 <br>
-Thanks
+Thanks.
 
 
 <br>
