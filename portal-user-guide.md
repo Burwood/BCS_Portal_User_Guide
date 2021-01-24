@@ -51,7 +51,7 @@ Log on in two different ways:
 
 <h1> Project View: Dashboards </h1>
 
-**Project View: BCS Portal Overview**
+**Project View: Burwood Cloud Portal Overview**
 
 Upon log in, the Project dashboard is displayed, with  information about budgets and current spend, as well as access to widgets to gather more detail about GCP project related expenses. 
 
