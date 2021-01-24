@@ -184,7 +184,8 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-**Purchase Orders**
+# **Purchase Orders**
+
 <br>
 
 * Customers can create and manage Purchase Order objects that they can use to track and charge back internally.
