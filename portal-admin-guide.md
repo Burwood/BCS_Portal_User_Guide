@@ -1,6 +1,15 @@
 # Updates to the Budget Items pane
 
-<br>
+
+ **Dear Burwood Customer,**
+ **Resently we released some changes that included UI Improvements. These moved some of the key functionality to new locations here is a brief overview of the changes:**
+ 
+ <br>
+
+
+
+
+
 On the Budget Items pane you will now find the following:
 <br>
 
