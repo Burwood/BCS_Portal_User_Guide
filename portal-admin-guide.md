@@ -2,7 +2,8 @@
 
 
  **Dear Burwood Customer,**
- 
+ <br>
+
  **Recently we released some changes that included UI Improvements. These moved some of the key functionality to new locations here is a brief overview of the changes:**
  
  <br>
