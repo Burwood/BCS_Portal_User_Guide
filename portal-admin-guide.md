@@ -203,6 +203,19 @@ To establish a budget, click on the plus sign next to **Budget Items:**
 
 <br>
 
+**On the Budget Items pane, you have the ability to find the following:** 
+
+1. The ablility  to toggle between a Standard (fixed fee)  budget, and a Recurring (Monthly budget)
+2. The ability to Bill or Suspend a project.
+    * If Bill is selected, you can select the relevant billing  account name or account number.
+    * the default for new projects is the following: 
+    * **Action:** (Bill) 
+    * **Billing Account:** (The currently used billing account)  
+    <br> 
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic27.png)  
+
+
+
 **BCS Portal > GCP Automation**
 
 <br>
