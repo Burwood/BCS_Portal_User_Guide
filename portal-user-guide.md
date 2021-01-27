@@ -1,8 +1,8 @@
-<h1>BCS Portal User Guide</h1>
+<h1>Burwood Cloud Portal User Guide</h1>
 
 **Purpose of the Portal** 
 
-The BCS GCP Billing Portal was developed as an enhancement to GCP functionality to address three primary concerns:
+The Burwood Cloud GCP Billing Portal was developed as an enhancement to GCP functionality to address three primary concerns:
 * The ability to define and alert against long-running budgets, as opposed to GCP which only allows monthly budgets to be created; which does not map well to a higher ed environment, where grant money is often used for GCP and the status of spending over time against the total grant is much more interesting than how much is spent each month.
   
 * In an environment where there are MANY projects within a billing account, there is no way within GCP to limit billing detail access at the project level.  Rather, billing viewer has access to all projects within the billing account.  The portal provides individuals with billing info for their project only.
@@ -23,7 +23,7 @@ The project will not be visible in the Project Dashboard until billing against i
 **Portal Overview**
 <br>
 
-There are four functional areas within the BCS GCP Portal:
+There are four functional areas within the Burwood Cloud GCP Portal:
 
 **Dashboards Tab:** Provides snapshot consumption data from GCP 
 * Project dashboard provides individual project-level detail
@@ -39,7 +39,7 @@ There are four functional areas within the BCS GCP Portal:
 **Logging In**
 <br>
 
-Once access is setup, new users will log onto BCS GCP Billing Portal at: https://bcs.burwood.com/cloudbilling_dashboard
+Once access is setup, new users will log onto Burwood Cloud GCP Billing Portal at: https://bcs.burwood.com/cloudbilling_dashboard
 
 Log on in two different ways:
 * Your email and password
@@ -51,7 +51,7 @@ Log on in two different ways:
 
 <h1> Project View: Dashboards </h1>
 
-**Project View: BCS Portal Overview**
+**Project View: Burwood Cloud Portal Overview**
 
 Upon log in, the Project dashboard is displayed, with  information about budgets and current spend, as well as access to widgets to gather more detail about GCP project related expenses. 
 

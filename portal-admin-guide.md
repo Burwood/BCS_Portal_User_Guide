@@ -1,18 +1,18 @@
-<h1>BCS Portal Admin Guide</h1>
+<h1>Burwood Cloud Portal Admin Guide</h1>
 
-**BCS GCP Billing Portal Overview**
+**Burwood Cloud GCP Billing Portal Overview**
 
 
-The BCS Portal was developed as an enhancement to GCP functionality to address three primary areas: 
+The Burwood Cloud Portal was developed as an enhancement to GCP functionality to address three primary areas: 
 
 
 * **Budgets:** The ability to define and alert against long-running budgets (as opposed to GCP which only allows monthly budgets to be created, which does not map well to a higher ed environment). Since grant money is often used for GCP, the status of total cumulative spend is typically much more useful than how much is spent each month.  
 
-* **Billing Visibility:** GCP’s Billing Administrator and Viewer roles are assigned at the Billing Account (not Project) level. In an environment where there are many projects within a billing account, there is no way to limit billing detail access at the project level.  Rather, billing viewer has access to all projects within the billing account. The BCS portal provides granular access to information, giving individuals access to just their project's billing info, accessible at any time
+* **Billing Visibility:** GCP’s Billing Administrator and Viewer roles are assigned at the Billing Account (not Project) level. In an environment where there are many projects within a billing account, there is no way to limit billing detail access at the project level.  Rather, billing viewer has access to all projects within the billing account. The Burwood Cloud portal provides granular access to information, giving individuals access to just their project's billing info, accessible at any time
 
 * **Current and Past Usage Detail:** SKU-level billing detail is available in the GCP Console only at month-end in the Invoice detail. If a project wants to understand what is driving a spike in GCP consumption totals, that detail is hard to determine using the GCP Console.
 
-* The BCS Portal provides Administrators with:
+* The Burwood Cloud Portal provides Administrators with:
     * Admin and Project Dashboards to view overall GCP spend or specific project consumption details
     * Project, Budgeting, Alerts, and User configuration capabilities 
 
@@ -23,7 +23,7 @@ There are four functional areas within the GCP Billing Portal:
     * Project: dashboard provides individual project-level detail
 2. **Reports Tab:** Numerous standard reports available for GCP consumption data insights.
 
-3. **Administration Tab:**  Location for Administrators to view and update information about and control user access to GCP projects in the BCS Portal. Only Administration resources will see this tab.
+3. **Administration Tab:**  Location for Administrators to view and update information about and control user access to GCP projects in the Burwood Cloud Portal. Only Administration resources will see this tab.
 
 4. **Cloud Request Tab:** Allows users to submit and check status of GCP Billing service requests.
 <br>
@@ -34,9 +34,9 @@ There are four functional areas within the GCP Billing Portal:
 
 ![chart](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/chart1.PNG)
 
-When a project is created in GCP, a monitoring project (deployed within each billing account by Burwood) publishes consumption data to a GCP BigQuery table.  As soon as there is spend* for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.  
+When a project is created in GCP, a monitoring project (deployed within each billing account by Burwood) publishes consumption data to a GCP BigQuery table.  As soon as there is spend* for a GCP project, it will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.  
 
-As a BCS Portal Administrator, you will then enter project metadata (including department alignment, project owner, and billing contact), assign project users, update budget(s), and set alerting thresholds.
+As a Burwood Cloud Portal Administrator, you will then enter project metadata (including department alignment, project owner, and billing contact), assign project users, update budget(s), and set alerting thresholds.
 
 
 **Note:** The project will not be visible in the Project Dashboard until billing against it commences.
@@ -47,13 +47,13 @@ As a BCS Portal Administrator, you will then enter project metadata (including d
 
 <br>
 
-The Administration > Projects tab provides the ability for project administrators to enter pertinent information about GCP projects to ensure they appear accurately and provide the correct information in the BCS GCP Billing Platform.
+The Administration > Projects tab provides the ability for project administrators to enter pertinent information about GCP projects to ensure they appear accurately and provide the correct information in the Burwood Cloud GCP Billing Platform.
 
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic1.png)
 
-As soon as there is spend for a GCP project, it will appear in the BCS Portal under the heading of “Unaffiliated Projects”.
+As soon as there is spend for a GCP project, it will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.
 
-BCS Portal Administrators will be responsible for updating the following information and activities:
+Burwood Cloud Portal Administrators will be responsible for updating the following information and activities:
 * Defining Department alignment*
 * Creating Project Name/Description
 * Completing:
@@ -94,7 +94,8 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-**Purchase Orders**
+## **Purchase Orders**
+
 <br>
 
 * Customers can create and manage Purchase Order objects that they can use to track and charge back internally.
@@ -112,6 +113,8 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17.png)
 
 <br>
+<br>
+
 
 **How to add a Purchase Order**
 <br>
@@ -128,12 +131,40 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/admin-guide-images/pic19.png)
+![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic19.png)
+
+<br>
+
+* Click update to save changes.
+
+<![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
+
+<br>
+
+**How to add a Purchase Order to a Project**
+<br>
+
+* Now that the new PO has been created, it can be selected when a new Budget Item is added.
+* To add a Purchase Order, click the Cost Object field on the budget line item, then  select the appropriate PO to bill against. 
+
+
+
+<br>
+<![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic21.png)>
+
+
+
+
+
+
+
+<br>
 
 
 **Project Setup: "After Budget"**
 
 <br>
+
 
 
 An important field to understand the functionality behind is “After Budget”:
@@ -165,8 +196,13 @@ To set Alert Thresholds:
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic6.png)
 
 
+<br>
+
+
 **Velocity Alerts**
 <br>
+
+
 To set a Velocity Alert:
 
 * Navigate to Administration | Project
@@ -183,6 +219,9 @@ To set a Velocity Alert:
 
 
 
+
+<br>
+
 **Setting Budgets**
 
 <br>
@@ -198,25 +237,11 @@ To establish a budget, click on the plus sign next to **Budget Items:**
 * **State:** Mark as Active for current budget, Future for subsequent.  
 * **Next:** If there are Future budgets, one needs to have the Next radio button enabled to denote order.
 
-
-![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic7.png)
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic7.png)  
 
 <br>
 
-**On the Budget Items pane, you have the ability to find the following:** 
-
-1. The ablility  to toggle between a Standard (fixed fee)  budget, and a Recurring (Monthly budget)
-2. The ability to Bill or Suspend a project.
-    * If Bill is selected, you can select the relevant billing  account name or account number.
-    * the default for new projects is the following: 
-    * **Action:** (Bill) 
-    * **Billing Account:** (The currently used billing account)  
-    <br> 
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic27.png)  
-
-
-
-**BCS Portal > GCP Automation**
+**Burwood Cloud Portal > GCP Automation**
 
 <br>
 
@@ -236,7 +261,7 @@ In cases where full automation is desired, budgets are automatically enforced fr
 
 Google does not have an SLA for how current they keep consumption data within the GCP Console. They claim that spend data may not be final for up to 2 days. In practice, we see data updated within a few hours of the spend occurring.  
 
-The BCS Portal pulls data from GCP every 30 minutes.  
+The Burwood Cloud Portal pulls data from GCP every 30 minutes.  
 
 These two factors need to be considered when setting Budgets. If a funded amount is an absolute "do not exceed" value, then the budgeted amount should be reduced in the BCS portal to account for the potential delay in reported spend to stay under that threshold.
 
@@ -309,7 +334,7 @@ C. **Control Panel:** Allows you to view or hide Dashboard Charts.
 
 ![projdash](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic11.PNG)
 
-**Note:** The BCS Portal Overview provides a detailed review of the Project Dashboard and information available to Project Users.
+**Note:** The Burwood Cloud Portal Overview provides a detailed review of the Project Dashboard and information available to Project Users.
 
 <br>
 
