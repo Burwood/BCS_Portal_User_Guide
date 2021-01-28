@@ -215,6 +215,25 @@ To set a Velocity Alert:
 
 ![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic16.png)
 
+<br>
+
+
+# Budgets
+<br>
+
+**On the Budget Items pane you will now find the following:**
+
+1.	The ability to toggle between a Standard (fixed fee) budget and a Recurring (Monthly) budget)
+2.	The ability to Bill or Suspend a project is now in this pane
+* If Bill is selected, you can select the relevant billing account by account name or account number
+* The default for new projects is the following:
+* Action: Bill
+* Billing Account: The currently used billing account
+
+<br>
+
+
+
 
 
 
