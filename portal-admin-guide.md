@@ -78,6 +78,26 @@ To set up Projects:
 
 <br>
 
+**Mass Updates on the Projects Selector** 
+<br>
+Use the  Shift and /or Control keys to select multiple projects and make updates to the following fields:
+<br>
+
+* Project Description
+* Department
+* Primary Contact Email
+* Billing Contact Email
+* Project Users
+* Alerts
+<br>
+
+**This is particularly useful for moving projects between departments or setting budgets for multiple projects** 
+<br>
+
+![image28](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic28.png)
+<br>
+
+
 **Project Setup- Alternate Approach**
 
 <br>
