@@ -78,6 +78,26 @@ To set up Projects:
 
 <br>
 
+**Mass Updates on the Projects Selector** 
+<br>
+Use the  Shift and /or Control keys to select multiple projects and make updates to the following fields:
+<br>
+
+* Project Description
+* Department
+* Primary Contact Email
+* Billing Contact Email
+* Project Users
+* Alerts
+<br>
+
+**This is particularly useful for moving projects between departments or setting budgets for multiple projects** 
+<br>
+
+![image28](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic28.png)
+<br>
+
+
 **Project Setup- Alternate Approach**
 
 <br>
@@ -93,6 +113,15 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic4.png)
 
 <br>
+
+## Purchase Order Management
+<br>
+
+**As a Portal Administrator, you have the ability to create, manage, and track Purchase Orders for your organization** 
+For example, when managing  internal chargeback to departments or individual projects, or external purchase orders with Burwood.
+<br>
+
+![image29](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic29.png)
 
 ## **Purchase Orders**
 
@@ -137,7 +166,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 * Click update to save changes.
 
-<![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
+<![image20](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
 
 <br>
 
@@ -150,7 +179,8 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 
 <br>
-<![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic21.png)>
+
+<![pic21](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic21.png)>
 
 
 
@@ -213,8 +243,27 @@ To set a Velocity Alert:
 
 <br>
 
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic16.png)
+![pic16](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic16.png)
 
+<br>
+
+
+# Budgets
+<br>
+
+**On the Budget Items pane you will now find the following:**
+
+1.	The ability to toggle between a Standard (fixed fee) budget and a Recurring (Monthly) budget)
+2.	The ability to Bill or Suspend a project is now in this pane
+* If Bill is selected, you can select the relevant billing account by account name or account number
+* The default for new projects is the following:
+* Action: Bill
+* Billing Account: The currently used billing account
+
+<br>
+
+
+![image27](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic27.png)
 
 
 
@@ -237,8 +286,7 @@ To establish a budget, click on the plus sign next to **Budget Items:**
 * **State:** Mark as Active for current budget, Future for subsequent.  
 * **Next:** If there are Future budgets, one needs to have the Next radio button enabled to denote order.
 
-
-![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic7.png)
+![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic7.png)  
 
 <br>
 
@@ -409,8 +457,16 @@ To Run reports:
 
 ![reporting](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic15.png)
 
+<br>
+
+## Release Notes
 
 
+
+**Burwwod releases updates to the portal every two weeks and tracks the details of these release on the Release Notes page:**
+<br>
+
+![pic30](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic30.png)  
 
 
 
