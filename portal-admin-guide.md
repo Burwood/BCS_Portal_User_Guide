@@ -233,7 +233,7 @@ To set a Velocity Alert:
 <br>
 
 
-
+![image27](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic27.png)
 
 
 
