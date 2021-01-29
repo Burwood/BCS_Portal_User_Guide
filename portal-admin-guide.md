@@ -114,6 +114,15 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
+## Purchase Order Management
+<br>
+
+**As a Portal Administrator, you have the ability to create, manage, and track Purchase Orders for your organization** 
+For example, when managing  internal chargeback to departments or individual projects, or external purchase orders with Burwood.
+<br>
+
+![image29](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic29.png)
+
 ## **Purchase Orders**
 
 <br>
@@ -157,7 +166,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 * Click update to save changes.
 
-<![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
+<![image20](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
 
 <br>
 
@@ -170,7 +179,8 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 
 <br>
-<![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic21.png)>
+
+<![pic21](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic21.png)>
 
 
 
@@ -233,7 +243,7 @@ To set a Velocity Alert:
 
 <br>
 
-![admin-guide-images](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic16.png)
+![pic16](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic16.png)
 
 <br>
 
@@ -447,8 +457,16 @@ To Run reports:
 
 ![reporting](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic15.png)
 
+<br>
+
+## Release Notes
 
 
+
+**Burwwod releases updates to the portal every two weeks and tracks the details of these release on the Release Notes page:**
+<br>
+
+![pic30](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic30.png)  
 
 
 
