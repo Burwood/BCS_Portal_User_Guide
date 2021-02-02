@@ -94,7 +94,7 @@ Use the  Shift and /or Control keys to select multiple projects and make updates
 **This is particularly useful for moving projects between departments or setting budgets for multiple projects** 
 <br>
 
-![image28](./admin-guide-images/pic28.png)
+![image28](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic28.png)
 <br>
 
 
@@ -121,7 +121,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 For example, when managing  internal chargeback to departments or individual projects, or external purchase orders with Burwood.
 <br>
 
-![image29](./admin-guide-images/pic29.png)
+![image29](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic29.png)
 
 ## **Purchase Orders**
 
@@ -139,7 +139,7 @@ For example, when managing  internal chargeback to departments or individual pro
 * The green shaded bar shows how much budget is left.   
  <br>
 
-![image17](./admin-guide-images/pic17.png)
+![image17](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17.png)
 
 <br>
 <br>
@@ -151,7 +151,7 @@ For example, when managing  internal chargeback to departments or individual pro
 * Navigate to Administration >Purchase Orders.
     
     <br>
-![image18](./admin-guide-images/pic18.png)  
+![image18](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)  
 
 <br>
 
@@ -243,7 +243,7 @@ To set a Velocity Alert:
 
 <br>
 
-![image16](./admin-guide-images/pic16.png)
+![image16](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic16.png)
 
 <br>
 
@@ -263,7 +263,7 @@ To set a Velocity Alert:
 <br>
 
 
-![image27](./admin-guide-images/pic27.png)
+![image27](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic27.png)
 
 
 
@@ -466,7 +466,7 @@ To Run reports:
 **Burwwod releases updates to the portal every two weeks and tracks the details of these release on the Release Notes page:**
 <br>
 
-![image30](/admin-guide-images/pic30.png)  
+![image30](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic30.png)  
 
 
 
