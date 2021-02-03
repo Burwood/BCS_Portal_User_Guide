@@ -114,6 +114,17 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
+## How to delete a project from the portal and remove it from the Weekly Summary Report
+
+1. Navigate to Administration, then projects
+2. On the left side, check the project to be deleted.
+3. Remove any project users so that they will no longer receive alerts and notifications
+4. click delete to save changes.
+<br>
+![image31](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic31.PNG)
+
+<br>
+
 ## Purchase Order Management
 <br>
 
