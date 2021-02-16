@@ -114,6 +114,23 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
+## How to disable a project and remove it from the Weekly Summary Report
+
+1. Navigate to Administration, then projects.
+2. On the left side, click on the department where the project is located.
+3. Select the project to be disabled.
+
+<br>
+
+![image31](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic31.png)
+
+<br>
+
+4. Now that the project to be disaabled has been selected, click on the Department tab, and select Disabled Projects from the drop down menu.
+5. The project is now in the Disabled Projects Folder on the left.
+6. Remove any project users so that they no longer receive alerts and notification.
+7. click Delete to save changes. 
+
 ## Purchase Order Management
 <br>
 
