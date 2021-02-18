@@ -28,7 +28,7 @@ There are four functional areas within the GCP Billing Portal:
 4. **Cloud Request Tab:** Allows users to submit and check status of GCP Billing service requests.
 <br>
 
-<h1>Dashboard Control<h1>
+<h1>Dashboard Controls<h1>
 <br>
 
 The Dashboards are a high-level veiw showing all the spend and consumption of your organization
