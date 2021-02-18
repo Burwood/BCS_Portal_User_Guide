@@ -31,7 +31,7 @@ There are four functional areas within the GCP Billing Portal:
 <h1>Dashboard Control<h1>
 <br>
 
-**The Dashboards are a high-level veiw showing all the spend and consumption of your organization**
+The Dashboards are a high-level veiw showing all the spend and consumption of your organization
 The widgets on the Dashboards are customizable meaning, as a Portal user, you can toggle Dashboard widgets on or off the Dashboard page.
 
 
