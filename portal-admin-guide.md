@@ -28,6 +28,33 @@ There are four functional areas within the GCP Billing Portal:
 4. **Cloud Request Tab:** Allows users to submit and check status of GCP Billing service requests.
 <br>
 
+<h1>Dashboard Control<h1>
+<br>
+
+**The Dashboards are a high-level veiw showing all the spend and consumption of your organization**
+The widgets on the Dashboards are customizable meaning, as a Portal user, you can toggle Dashboard widgets on or off the Dashboard page.
+
+
+**To add or remove Dashboard widgets:**
+<br>
+
+1. Navigate to Dashboards, then Admin.
+2. Click on the gear located on the bottom right corner of the page
+<br>
+
+![dashboard](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic34.png)
+<br>
+
+3. From Dashboard Controls, choose which widgets to add or remove from the dashboard by clicking on the options available.
+4. Next, click save.
+5. your Dashboard has now been updated with the widgets of your choice.
+
+<br>
+
+![dashboard](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic35.png)
+
+
+
 <h1>Administration > Projects</h1>
 
 **Project Setup Process**
