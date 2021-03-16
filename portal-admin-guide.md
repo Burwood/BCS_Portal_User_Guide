@@ -477,12 +477,15 @@ To Run reports:
 <br>
 
 <h1> Invoices
+
 <br>
 
-**There are three different versions of invices: Company, Department, and Projects.**
+
+There are three different versions of invices: Company, Department, and Projects.
 <br>
 
 To retrieve an invoice:
+
 <br>
 
 1. Navigate to the Reports Tab, then click Invoices
@@ -493,7 +496,7 @@ To retrieve an invoice:
 6. Your invoice will download shortly.
 <br>
 
-! [image36]./admin-guide-images/pic36.png
+! [Invoicing](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic36.png)
 
 
 ## Release Notes
