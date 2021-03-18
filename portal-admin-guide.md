@@ -476,7 +476,7 @@ To Run reports:
 
 <br>
 
-<h1> Invoices
+**Invoices**
 
 <br>
 
@@ -496,7 +496,7 @@ To retrieve an invoice:
 6. Your invoice will download shortly.
 <br>
 
-! [Invoicing](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic36.png)
+![Invoicing](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic36.png)
 
 
 ## Release Notes
