@@ -481,7 +481,7 @@ To Run reports:
 <br>
 
 
-There are three different versions of invices: Company, Department, and Projects.
+There are three different versions of invoices: Company,Group, Department, and Projects.
 <br>
 
 To retrieve an invoice:
