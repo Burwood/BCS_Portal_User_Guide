@@ -476,6 +476,29 @@ To Run reports:
 
 <br>
 
+**Invoices**
+
+<br>
+
+
+There are three different versions of invices: Company, Department, and Projects.
+<br>
+
+To retrieve an invoice:
+
+<br>
+
+1. Navigate to the Reports Tab, then click Invoices
+2. Choose your invoice type from the invoice Type drop down menu. Your choices are Company, Department, or Projects.
+3. Next, choose the associated Department or Project in the next drop-down menu.
+4. Moving on to the next step, choose Invoice month and year accordingly.
+5. Select your chosen format of either PDF, Excel, or CSV.
+6. Your invoice will download shortly.
+<br>
+
+![Invoicing](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic36.png)
+
+
 ## Release Notes
 
 
