@@ -499,12 +499,16 @@ To retrieve an invoice:
 ![Invoicing](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic36.png)
 
 
+
+
 ## Release Notes
 
 
 
 **Burwwod releases updates to the portal every two weeks and tracks the details of these release on the Release Notes page:**
 <br>
+
+
 
 ![image30](/admin-guide-images/pic30.png)  
 
