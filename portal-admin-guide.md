@@ -507,7 +507,8 @@ To retrieve an invoice:
 
 **Burwwod releases updates to the portal every two weeks and tracks the details of these release on the Release Notes page:**
 <br>
-
+ 
+ 
 
 
 ![image30](/admin-guide-images/pic30.png)  
