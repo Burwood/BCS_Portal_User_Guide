@@ -170,7 +170,7 @@ Groups are a collection of Departments used for reporting and invoicing purposes
 
 <br>
 
-![image38] (https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic38.png)
+![image38](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic38.png)
 
 
 
