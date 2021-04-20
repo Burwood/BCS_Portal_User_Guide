@@ -131,6 +131,49 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 6. Remove any project users so that they no longer receive alerts and notification.
 7. click Delete to save changes. 
 
+
+<br>
+
+# Add School Structure to the Hierarchy
+
+<br>
+In the Burwood Billing Portal, the Hierarchy is structured as:
+<br>
+
+* Company
+* Group
+* Department
+* Project
+
+
+**As a Company Admin, you can report on consumption across a school, or the complete set of schools in your company**
+
+Groups are a collection of Departments used for reporting and invoicing purposes
+
+**How to create a Group**
+<br>
+
+1. Click Administration > Projects.
+2. On the left, Click on Group Configuration.
+<br>
+
+![image37](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic37.png)
+
+3. Next, click Add Group.
+4. Enter Group Name.
+5. Click Departments, and select the Departments affiliated with the new Group.
+6. Add Users of the Group.
+7. Keep in mind, the Users added to this Group will have access to all Departments associated with the new Group.
+8. Indicate if an Invoice should be received for the entire Group by checking " Receive Invoice".
+9. Enter the Billing Contact Email. Click the plus button to add multiple Email Contacts.
+10. Click submit.
+
+<br>
+
+![image38](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic38.png)
+
+
+
 ## Purchase Order Management
 <br>
 
