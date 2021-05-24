@@ -1,7 +1,10 @@
 <h1>Burwood Cloud Portal Admin Guide</h1>
 
 <h2>Table of Contents</h2>
-<h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">Reports</h4>
+<h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4>
+
+<br>
+<br>
 
 <h4 id="overview">Burwood Cloud GCP Billing Portal Overview</h4>
 
