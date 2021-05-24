@@ -2,7 +2,7 @@
 
 <h3>Table of Contents</h3>
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
-<h4 ng-click="vm.scrollTo('release-notes')" style="cursor:pointer">- Release Notes</h4>
+<h4 ng-click="vm.scrollTo('projects')" style="cursor:pointer">- Projects</h4>
 
 
 <br>
@@ -36,7 +36,7 @@ There are four functional areas within the GCP Billing Portal:
 4. **Cloud Request Tab:** Allows users to submit and check status of GCP Billing service requests.
 <br>
 
-<h1>Administration > Projects</h1>
+<h1 id='Projects'> Administration > Projects</h1>
 
 **Project Setup Process**
 
