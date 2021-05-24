@@ -1,8 +1,9 @@
 <h1>Burwood Cloud Portal Admin Guide</h1>
 
-<!-- <h3>Table of Contents</h3>
+<h3>Table of Contents</h3>
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
--->
+<h4 ng-click="vm.scrollTo('release-notes')" style="cursor:pointer">- Release Notes</h4>
+
 
 <br>
 <br>
@@ -567,7 +568,7 @@ To retrieve an invoice:
 
 
 
-## Release Notes
+<h1 id='release-notes'> Release Notes</h1>
 
 
 
