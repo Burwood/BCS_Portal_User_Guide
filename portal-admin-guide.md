@@ -295,7 +295,7 @@ Selecting “Bill” for this field means that any budgets added to the project 
 
 <br>
 
-<h1 id=alerts'>Alert Threshold Notifications</h1>
+<h1 id='alerts'>Alert Threshold Notifications</h1>
 
 <br>
 
