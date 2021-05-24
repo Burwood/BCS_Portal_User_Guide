@@ -4,6 +4,7 @@
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
 <h4 ng-click="vm.scrollTo('projects')" style="cursor:pointer">- Projects</h4>
 <h4 ng-click="vm.scrollTo('purchase-orders')" style="cursor:pointer">- Purchase Orders</h4>
+<h4 ng-click="vm.scrollTo('alerts')" style="cursor:pointer">- Alerts</h4>
 
 
 <br>
@@ -266,7 +267,9 @@ For example, when managing  internal chargeback to departments or individual pro
 <br>
 
 **How to generate an Invoice by purchase Order**
+
 <br>
+
 
 As a Billing Admin, you can generate invoices by Purchase Orders
 
@@ -292,7 +295,7 @@ Selecting “Bill” for this field means that any budgets added to the project 
 
 <br>
 
-**Alert Threshold Notifications**
+<h1 id=alerts'>Alert Threshold Notifications</h1>
 
 <br>
 
