@@ -1,7 +1,7 @@
 <h1>Burwood Cloud Portal Admin Guide</h1>
 
 <h2>Table of Contents</h2>
-<h4 ng-click="vm.scrollTo('overview')" style="cursor:pointer">Burwood Cloud GCP Billing Portal Overview</h4>
+<h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">Reports</h4>
 
 <h4 id="overview">Burwood Cloud GCP Billing Portal Overview</h4>
 
@@ -481,7 +481,8 @@ C. Search within the data details
 ![widget](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic12.PNG)
 
 
-<h1>Reports</h1>
+<h1 id="reports">Reports</h1>
+
 
 **Standard Reports**
 
