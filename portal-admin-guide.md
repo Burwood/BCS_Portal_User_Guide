@@ -3,6 +3,7 @@
 <h3>Table of Contents</h3>
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
 <h4 ng-click="vm.scrollTo('projects')" style="cursor:pointer">- Projects</h4>
+<h4 ng-click="vm.scrollTo('purchase-orders')" style="cursor:pointer">- Purchase Orders</h4>
 
 
 <br>
@@ -182,7 +183,7 @@ Groups are a collection of Departments used for reporting and invoicing purposes
 
 
 
-## Purchase Order Management
+<h1 id='purchase-orders'>Purchase Order Management</h1>
 <br>
 
 **As a Portal Administrator, you have the ability to create, manage, and track Purchase Orders for your organization** 
