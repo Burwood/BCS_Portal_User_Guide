@@ -4,6 +4,7 @@
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
 <h4 ng-click="vm.scrollTo('projects')" style="cursor:pointer">- Projects</h4>
 <h4 ng-click="vm.scrollTo('purchase-orders')" style="cursor:pointer">- Purchase Orders</h4>
+<h4 ng-click="vm.scrollTo('budgets')" style="cursor:pointer">- Budgets</h4>
 <h4 ng-click="vm.scrollTo('alerts')" style="cursor:pointer">- Alerts</h4>
 
 
@@ -335,7 +336,7 @@ To set a Velocity Alert:
 <br>
 
 
-# Budgets
+  <h1 id='budgets'>Budgets</h1>
 <br>
 
 **On the Budget Items pane you will now find the following:**
