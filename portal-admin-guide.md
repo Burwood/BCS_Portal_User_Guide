@@ -1,6 +1,8 @@
 <h1>Burwood Cloud Portal Admin Guide</h1>
 
 <h3>Table of Contents</h3>
+<br>
+<h4 ng-click="vm.scrollTo('dashboards')" style="cursor:pointer">- Dashboards</h4> 
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
 <h4 ng-click="vm.scrollTo('projects')" style="cursor:pointer">- Projects</h4>
 <h4 ng-click="vm.scrollTo('purchase-orders')" style="cursor:pointer">- Purchase Orders</h4>
@@ -439,7 +441,7 @@ To set up Users:
 
 <br>
 
-<h1>Dashboards</h1>
+<h1 id='dashboards'>Dashboards</h1>
 
 
 **Admin Dashboard Overview**
