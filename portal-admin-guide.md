@@ -138,7 +138,7 @@ Take care to ensure the Project ID matches what is in GCP exactly – do not use
 
 <br>
 
-4. Now that the project to be disaabled has been selected, click on the Department tab, and select Disabled Projects from the drop down menu.
+4. Now that the project to be disabled has been selected, click on the Department tab, and select Disabled Projects from the drop down menu.
 5. The project is now in the Disabled Projects Folder on the left.
 6. Remove any project users so that they no longer receive alerts and notification.
 7. click Delete to save changes. 
