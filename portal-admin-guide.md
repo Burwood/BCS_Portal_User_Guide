@@ -578,7 +578,7 @@ To retrieve an invoice:
 
 
 
-**Burwwod releases updates to the portal every two weeks and tracks the details of these release on the Release Notes page:**
+**Burwood releases updates to the portal every two weeks and tracks the details of these release on the Release Notes page:**
 <br>
  
  
