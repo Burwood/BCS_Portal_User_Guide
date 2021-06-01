@@ -195,7 +195,7 @@ For example, when managing  internal chargeback to departments or individual pro
 
 ![image29](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic29.png)
 
-## **Purchase Orders**
+ **Purchase Orders**
 
 <br>
 
