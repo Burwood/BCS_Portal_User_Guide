@@ -228,18 +228,10 @@ For example, when managing  internal chargeback to departments or individual pro
   
  <br>
  
-![image40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-pic40POupdate.png)
+![pic40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic40POupdate.png)
 
 <br>
-- Navigate to Administration, then Funding.
-- Next, click Funding Sources
-- A new line for a Funding Source will appear
-- From the dropdown menu, choose PO as Type
-- Enter the PO Number/ID, Amount,and Description
-- Check the Receive Invoice box if you would like to generate an Invoice by PO
-- Select Billing Contact Email to send the Invoice to  an email recipient
-- Click Update.
-<br>
+
 
 
 
