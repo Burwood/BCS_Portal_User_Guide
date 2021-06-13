@@ -230,7 +230,7 @@ For example, when managing  internal chargeback to departments or individual pro
 * Navigate to Administration >Purchase Orders.
     
     <br>
-![image18](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)  
+![pic40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic40POupdate.png)  
 
 <br>
 
