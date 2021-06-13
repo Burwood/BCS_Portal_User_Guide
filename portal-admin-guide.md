@@ -7,6 +7,8 @@
 <h4 ng-click="vm.scrollTo('purchase-orders')" style="cursor:pointer">- Purchase Orders</h4>
 <h4 ng-click="vm.scrollTo('budgets')" style="cursor:pointer">- Budgets</h4>
 <h4 ng-click="vm.scrollTo('alerts')" style="cursor:pointer">- Alerts</h4>
+<br>
+[Link to the latest Portal Demo](https://drive.google.com/file/d/1EraoE-QJD4qxTnEbBUbUeTqVJGzEYH6K/view?usp=sharing)
 
 
 <br>
