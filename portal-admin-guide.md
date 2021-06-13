@@ -227,7 +227,7 @@ For example, when managing  internal chargeback to departments or individual pro
 
   
  <br>
-![pic40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic40POupdate.png) 
+! [pic40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic40POupdate.png) 
 
 <br>
 1.  Navigate to Administration, then Funding
