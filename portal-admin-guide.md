@@ -1,4 +1,7 @@
 <h1>Burwood Cloud Portal Admin Guide</h1>
+<br>
+
+<h4 [Click here to request access to the latest Portal Demo](https://drive.google.com/file/d/1EraoE-QJD4qxTnEbBUbUeTqVJGzEYH6K/view?usp=sharing) h4>
 
 <h3>Table of Contents</h3>
 <h4 ng-click="vm.scrollTo('dashboards')" style="cursor:pointer">- Dashboards</h4> 
@@ -9,7 +12,7 @@
 <h4 ng-click="vm.scrollTo('alerts')" style="cursor:pointer">- Alerts</h4>
 <br>
 
-[Click here to request access to the latest Portal Demo](https://drive.google.com/file/d/1EraoE-QJD4qxTnEbBUbUeTqVJGzEYH6K/view?usp=sharing)
+
 
 
 <br>
