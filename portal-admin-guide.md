@@ -70,7 +70,7 @@ The Administration > Projects tab provides the ability for project administrator
 
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic1.png)
 
-As soon as there is spend for a GCP project, it will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.
+New GCP projects will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.
 
 Burwood Cloud Portal Administrators will be responsible for updating the following information and activities:
 * Defining Department alignment*
