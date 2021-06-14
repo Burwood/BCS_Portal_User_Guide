@@ -221,7 +221,7 @@ For example, when managing  internal chargeback to departments or individual pro
 ![image17](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17.png)
 
 <br>
-1. Navigate to Administration, then Funding.
+
 
 
 **How to add a Purchase Order**
@@ -232,6 +232,7 @@ For example, when managing  internal chargeback to departments or individual pro
 ![pic40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic40POupdate.png)
 
 <br>
+1. Navigate to Administration, then Funding.
 
 
 
