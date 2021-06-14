@@ -1,5 +1,19 @@
 <h1>Burwood Cloud Portal User Guide</h1>
 
+<br>
+<h3>Table of Contents</h3>
+<h4 ng-click="vm.scrollTo('portal overview)" style="cursor:pointer">-Portal Overview</h4> 
+<h4 ng-click="vm.scrollTo('Project View: Dashboards')" style="cursor:pointer">- Dashboards</h4> 
+<h4 ng-click="vm.scrollTo('Reports')" style="cursor:pointer">- Reports</h4> 
+<h4 ng-click="vm.scrollTo('Updating Threshold Alerts')" style="cursor:pointer">- Threshold Alerts</h4> 
+
+
+
+<br>
+
+
+
+
 **Purpose of the Portal** 
 
 The Burwood Cloud GCP Billing Portal was developed as an enhancement to GCP functionality to address three primary concerns:
@@ -20,7 +34,7 @@ The project will not be visible in the Project Dashboard until billing against i
 
 <br>
 
-**Portal Overview**
+<h1 id='portal overview'>Portal Overview</h1>
 <br>
 
 There are four functional areas within the Burwood Cloud GCP Portal:

@@ -1,5 +1,9 @@
 <h1>Burwood Cloud Portal Admin Guide</h1>
 
+
+ [Click here to request access to the latest Portal Demo](https://drive.google.com/file/d/1EraoE-QJD4qxTnEbBUbUeTqVJGzEYH6K/view?usp=sharing) 
+ 
+
 <h3>Table of Contents</h3>
 <h4 ng-click="vm.scrollTo('dashboards')" style="cursor:pointer">- Dashboards</h4> 
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
@@ -7,6 +11,9 @@
 <h4 ng-click="vm.scrollTo('purchase-orders')" style="cursor:pointer">- Purchase Orders</h4>
 <h4 ng-click="vm.scrollTo('budgets')" style="cursor:pointer">- Budgets</h4>
 <h4 ng-click="vm.scrollTo('alerts')" style="cursor:pointer">- Alerts</h4>
+<br>
+
+
 
 
 <br>
@@ -63,7 +70,7 @@ The Administration > Projects tab provides the ability for project administrator
 
 ![setup](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic1.png)
 
-As soon as there is spend for a GCP project, it will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.
+New GCP projects will appear in the Burwood Cloud Portal under the heading of “Unaffiliated Projects”.
 
 Burwood Cloud Portal Administrators will be responsible for updating the following information and activities:
 * Defining Department alignment*
@@ -214,31 +221,28 @@ For example, when managing  internal chargeback to departments or individual pro
 ![image17](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic17.png)
 
 <br>
-<br>
+
 
 
 **How to add a Purchase Order**
-<br>
 
-* Navigate to Administration >Purchase Orders.
-    
-    <br>
-![image18](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic18.png)  
-
-<br>
-
-* Next, click on the first box to choose the PO type. Either "Standard" or "Prepaid"
-* If choosing prepaid, enter a PO number, the account name, the account number, and the PO amount
+  
+ <br>
+ 
+![pic40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic40POupdate.png)
 
 <br>
 
-![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic19.png)
+1. Navigate to Administration, then Funding.<br>
+2. Next, click Funding Sources.<br>
+![pic41](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic41POupdate.png)<br>
+3. A new line for a Funding Source will appear.<br>
+4. From the dropdown menu, choose PO as Type.<br>
+5. Enter the PO Number/ID, Amount, and Description.<br>
+6. Check the Receive Invoice box if you would like to generate an Invoice by PO.<br>
+7. Select Billing Contact Email to send the Invoice to an email recipient.<br>
+8. - Click Update.<br>
 
-<br>
-
-* Click update to save changes.
-
-<![image20](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
 
 <br>
 
@@ -264,24 +268,8 @@ For example, when managing  internal chargeback to departments or individual pro
 
 
 
-**Project Setup: "After Budget"**
-
+**Project Setup: "After Budget
 <br>
-
-**How to generate an Invoice by purchase Order**
-
-<br>
-
-
-As a Billing Admin, you can generate invoices by Purchase Orders
-
-1. Navigate to Administation, then Funding.
-2. Next, click the buttion to the right of Funding Sources.
-3. A New Line for a Funding Source will appear.
-4. From the dropdown, choose PO as Type.
-5. Enter the PO Number/ID, Amount, then check the Receive Invoice box.
-6. Click update in the upper right corner
-![pic39](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic39.png)
 
 
 
