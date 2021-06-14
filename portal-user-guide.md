@@ -2,8 +2,8 @@
 
 <br>
 <h3>Table of Contents</h3>
-<h4 ng-click="vm.scrollTo('portal overview)" style="cursor:pointer">-Portal Overview</h4> 
-<h4 ng-click="vm.scrollTo('Project View: Dashboards')" style="cursor:pointer">- Dashboards</h4> 
+<h4 ng-click="vm.scrollTo('portal overview')" style="cursor:pointer">-Portal Overview</h4> 
+<h4 ng-click="vm.scrollTo('dashboards')" style="cursor:pointer">- Dashboards</h4> 
 <h4 ng-click="vm.scrollTo('Reports')" style="cursor:pointer">- Reports</h4> 
 <h4 ng-click="vm.scrollTo('Updating Threshold Alerts')" style="cursor:pointer">- Threshold Alerts</h4> 
 
@@ -63,7 +63,7 @@ Log on in two different ways:
 
 <br>
 
-<h1> Project View: Dashboards </h1>
+<h1 id='dashboards'> Project View: Dashboards </h1>
 
 **Project View: Burwood Cloud Portal Overview**
 
