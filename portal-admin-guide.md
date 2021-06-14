@@ -232,6 +232,7 @@ For example, when managing  internal chargeback to departments or individual pro
 ![pic40](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic40POupdate.png)
 
 <br>
+
 1. Navigate to Administration, then Funding.<br>
 2. Next, click Funding Sources.<br>
 ![pic41](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic41POupdate.png)<br>
@@ -267,25 +268,8 @@ For example, when managing  internal chargeback to departments or individual pro
 
 
 
-**Project Setup: "After Budget"**
-
+**Project Setup: "After Budget
 <br>
-
-**How to generate an Invoice by purchase Order**
-
-<br>
-
-
-As a Billing Admin, you can generate invoices by Purchase Orders
-<br>
-
-* 1. Navigate to Administation, then Funding.
-* 2. Next, click the buttion to the right of Funding Sources.
-* 3. A New Line for a Funding Source will appear.
-* 4. From the dropdown, choose PO as Type.
-* 5. Enter the PO Number/ID, Amount, then check the Receive Invoice box.
-* 6. Click update in the upper right corner
-![pic39](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic39.png)
 
 
 
