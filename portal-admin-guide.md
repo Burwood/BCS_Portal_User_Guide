@@ -412,7 +412,7 @@ Departments can be added to group projects together in the portal. There are two
 
 <br>
 
-<h1>Administration > Users</h1>
+<h1 id='administration'>Administration > Users</h1>
 
 **User Setup**
 
