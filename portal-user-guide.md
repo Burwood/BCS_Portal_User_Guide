@@ -3,6 +3,9 @@
 <br>
 <h3>Table of Contents</h3>
 <h4 ng-click="vm.scrollTo('Portal Overview')" style="cursor:pointer">-Portal Overview</h4> 
+<h4 ng-click="vm.scrollTo('dashboards tab')" style="cursor:pointer">- Dashboards</h4> 
+<h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
+<h4 ng-click="vm.scrollTo('updating threshold alerts')" style="cursor:pointer">- Threshold Alert</h4> 
 
 
 
