@@ -233,6 +233,7 @@ For example, when managing  internal chargeback to departments or individual pro
 
 <br>
 1. Navigate to Administration, then Funding.
+2. Next, click Funding Sources.
 
 
 
