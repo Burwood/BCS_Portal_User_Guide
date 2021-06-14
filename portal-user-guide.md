@@ -34,7 +34,7 @@ The project will not be visible in the Project Dashboard until billing against i
 
 <br>
 
-**Portal Overview**
+ID='portal-overview'>**Portal Overview**</h1>
 <br>
 
 There are four functional areas within the Burwood Cloud GCP Portal:
