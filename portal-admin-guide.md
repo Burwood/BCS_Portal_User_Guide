@@ -7,7 +7,7 @@
 <h3>Table of Contents</h3>
 <h4 ng-click="vm.scrollTo('dashboards')" style="cursor:pointer">- Dashboards</h4> 
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
-<h4 ng-click="vm.scrollTo('administration')" style="cursor:pointer">- Adminstration > Users</h4>
+<h4 ng-click="vm.scrollTo('administration')" style="cursor:pointer">- Adminstrations > Users</h4>
 <h4 ng-click="vm.scrollTo('projects')" style="cursor:pointer">- Projects</h4>
 <h4 ng-click="vm.scrollTo('purchase-orders')" style="cursor:pointer">- Purchase Orders</h4>
 <h4 ng-click="vm.scrollTo('budgets')" style="cursor:pointer">- Budgets</h4>
