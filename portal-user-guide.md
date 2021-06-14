@@ -1,5 +1,11 @@
 <h1>Burwood Cloud Portal User Guide</h1>
 
+<br>
+<h3>Table of Contents</h3>
+<h4 ng-click="vm.scrollTo('Portal Overview')" style="cursor:pointer">-Portal Overview</h4> 
+
+
+
 **Purpose of the Portal** 
 
 The Burwood Cloud GCP Billing Portal was developed as an enhancement to GCP functionality to address three primary concerns:
