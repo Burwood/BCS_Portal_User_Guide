@@ -243,24 +243,6 @@ For example, when managing  internal chargeback to departments or individual pro
 8. - Click Update.<br>
 
 
-
-
-
-
-
-* Next, click on the first box to choose the PO type. Either "Standard" or "Prepaid"
-* If choosing prepaid, enter a PO number, the account name, the account number, and the PO amount
-
-<br>
-
-![image19](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic19.png)
-
-<br>
-
-* Click update to save changes.
-
-<![image20](https://github.com/Burwood/BCS_Portal_User_Guide/raw/main/admin-guide-images/pic20.png)>
-
 <br>
 
 **How to add a Purchase Order to a Project**
