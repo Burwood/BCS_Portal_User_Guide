@@ -7,6 +7,9 @@
 <h4 ng-click="vm.scrollTo('reports')" style="cursor:pointer">- Reports</h4> 
 <h4 ng-click="vm.scrollTo('updating threshold alerts')" style="cursor:pointer">- Threshold Alert</h4> 
 
+<br>
+
+
 
 
 **Purpose of the Portal** 
